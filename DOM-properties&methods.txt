@@ -1,0 +1,13 @@
+//Lets say we have a car:
+The car has:
+1) Properties: color, weight etc
+2) Methods: driving, braking etc **methods have () at the end
+
+
+1-a) Get Propety:
+     car.colour; //brings out the color of the car which is this case was red
+2-a) Set Propety:
+     car.colour = "blue"; //sets the color of the car to blue
+
+3) Call Method:
+     car.drive(); //does something i.e. drives. 
