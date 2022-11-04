@@ -10,4 +10,10 @@ The car has:
      car.colour = "blue"; //sets the color of the car to blue
 
 3) Call Method:
-     car.drive(); //does something i.e. drives. 
+     car.drive(); //does something i.e. drives.
+
+
+//DOM style object(naming in camel case):
+https://www.w3schools.com/jsref/dom_obj_style.asp
+
+//Attributes: all the orange items in the index.html attributes
